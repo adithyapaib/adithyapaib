@@ -32,7 +32,8 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX d
 - 📝[My Portfollio ](https://adithyapai.com)
  <br>
  <br>
-### 📈 My GitHub Stats:
+ 
+###  📈 My GitHub Stats:
 
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=adithyapaib&count_private=true&show_icons=true&theme=react)
 ### GitHub Visitors
