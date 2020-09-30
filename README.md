@@ -17,7 +17,10 @@
 
 Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
    
-   
+     
+     
+     
+     
    
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -28,12 +31,10 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX d
 - 📫 How to reach me: [Click Here ](https://telegram.me/adithyapai);
 - 📝[My Portfollio ](https://adithyapai.com)
 
-
 **📈 My GitHub Stats **
 
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=adithyapaib&count_private=true&show_icons=true&theme=react)
 ### GitHub Visitors
-
 
 <img allgin="center" alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg" />
 
