@@ -17,8 +17,9 @@
 <br>
 <br>
 <br>
-Hi, I'm [Adithya Pai B](https://adithyapai.com/); , a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
-
+Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
+<br>
+<br>
   
 **Talking about Personal Stuffs:**
 
