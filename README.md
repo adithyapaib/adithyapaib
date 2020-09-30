@@ -43,8 +43,8 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX d
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-📈 My GitHub Stats
 
+📈 My GitHub Stats
 
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=adithyapaib&count_private=true&show_icons=true&theme=react)
 
