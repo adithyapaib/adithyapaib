@@ -28,9 +28,8 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX d
 - 📫 How to reach me: [Click Here ](https://telegram.me/adithyapai);
 - 📝[My Portfollio ](https://adithyapai.com)
 
-
-**📈 My GitHub Stats **
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+### 📈 My GitHub Stats:
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=adithyapaib&count_private=true&show_icons=true&theme=react)
 ### GitHub Visitors
 
