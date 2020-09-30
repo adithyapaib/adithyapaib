@@ -43,5 +43,5 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX d
 ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=adithyapaib&count_private=true&show_icons=true&theme=react)
 ### GitHub Visitors
 
-<img allgin="left" alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg" />
+<img allgin="center" alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg" />
 
