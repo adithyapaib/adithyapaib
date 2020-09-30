@@ -12,7 +12,7 @@
 <a href="https://facebook.com/adithyapaib26">
   <img align="left" alt="Adithya's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br />
+
 
 
 Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
