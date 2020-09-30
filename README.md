@@ -21,7 +21,10 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX d
 <br>
 <br>
  <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
+ 
  <br>
+ <br>
+ 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
