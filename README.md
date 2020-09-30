@@ -28,8 +28,8 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX d
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Click Here ](paiadithya26@gmail.com);
-- 📝.[My Portfollio ](https://adithyapai.com)
+- 📫 How to reach me: [Click Here ](https://telegram.me/adithyapai);
+- 📝[My Portfollio ](https://adithyapai.com)
 
 **Languages and Tools:**  
 
