@@ -10,7 +10,7 @@
   <img align="left" alt="Adithya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://facebook.com/adithyapaib26">
-  <img align="left" alt="Adithya's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fb.svg" />
+  <img align="left" alt="Adithya's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <img allgin="left" alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg" />
