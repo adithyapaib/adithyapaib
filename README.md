@@ -31,7 +31,6 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX d
 - 📫 How to reach me: [Click Here ](https://telegram.me/adithyapai);
 - 📝[My Portfollio ](https://adithyapai.com)
  <br>
- <br>
  
 ###  📈 My GitHub Stats:
 
