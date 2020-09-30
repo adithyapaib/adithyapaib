@@ -13,11 +13,14 @@
   <img align="left" alt="Adithya's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
+
+### GitHub Visitors
+
 <img allgin="left" alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg" />
 
 <br />
 
-Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm Pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
+Hi, I'm [Adithya Pai B](https://adithyapai.com/), a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
