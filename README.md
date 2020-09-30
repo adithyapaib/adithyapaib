@@ -38,7 +38,7 @@ Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX d
  <br>
  <br>
  <p align="center">
- # GitHub Visitors
+ ** GitHub Visitors **
   <br>
   <br>
   <img alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg">
