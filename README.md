@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-Hi, I'm [a link](https://github.com/user/repo/blob/branch/other_file.md) , a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
+Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer ,UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
 <br>
 <br>
  <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
