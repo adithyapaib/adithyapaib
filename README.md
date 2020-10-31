@@ -1,3 +1,6 @@
+
+<meta http-equiv="content-type" content="text/html;UTF-8">
+<meta http-equiv="content-language" content="en">
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 <br>
