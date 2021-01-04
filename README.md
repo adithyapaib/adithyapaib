@@ -1,5 +1,5 @@
 <meta property="og:description" content="Adithya Pai B is a Front-End Developer from Mangalore, India. Adithya Pai is currenty pursuing his BE in Computer Science. Feel free to contact Adithya Pai B" />
- <meta name="Keywords" content="adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
+ <meta name="Keywords" content="Adithya Pai B adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 <a href="https://twitter.com/adithyapaib">
