@@ -2,9 +2,7 @@
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Adithya Pai B
 <br>
 
-<a href="https://twitter.com/adithyapaib">
-  <img align="left" alt="Adithya Pai B | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+[![linkedin badge](https://img.shields.io/badge/adithyapaib?style=flat&logo=linkedin)](https://www.linkedin.com/in/adithyapaib)
 <a href="https://www.linkedin.com/in/adithyapaib/">
   <img align="left" alt="Adithya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -50,8 +48,8 @@ const adithyaPai = {
  <br>
   
  <p align="center">
-  <b>GitHub Visitors</b>
+  <b>Visitors</b>
   <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyapaib&label=Views&color=blue&style=plastic" alt="adithyapaib" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adithyapaib&label=Views&color=blue&style=plastic" alt="adithyapaib" /> </p>
 </p>
 
