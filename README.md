@@ -52,7 +52,6 @@ const adithyaPai = {
  <p align="center">
   <b>GitHub Visitors</b>
   <br>
-  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyapaib&label=Views&color=blue&style=plastic" alt="adithyapaib" /> </p>
 </p>
 
