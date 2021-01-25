@@ -1,8 +1,7 @@
-<meta property="og:description" content="Adithya Pai B is a Front-End Developer from Mangalore, India. Adithya Pai is currenty pursuing his BE in Computer Science. Feel free to contact Adithya Pai B" />
- <meta name="Keywords" content="Adithya Pai B adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<meta property="og:description" content="Adithya Pai B is a Front-End Developer from Mangalore, India. Adithya Pai is currenty pursuing his BE in Computer Science. Feel free to contact Adithya Pai B" /><meta name="Keywords" content="Adithya Pai B adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Adithya Pai B
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyapaib&label=Views&color=blue&style=plastic" alt="Shubhamrawat5" /> </p>
+
 <a href="https://twitter.com/adithyapaib">
   <img align="left" alt="Adithya Pai B | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -54,6 +53,6 @@ const adithyaPai = {
   <b>GitHub Visitors</b>
   <br>
   <br>
-  <img alt="Page counter" src="https://profile-counter.glitch.me/adithyapaib/count.svg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyapaib&label=Views&color=blue&style=plastic" alt="adithyapaib" /> </p>
 </p>
 
