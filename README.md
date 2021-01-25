@@ -1,7 +1,9 @@
 <meta property="og:description" content="Adithya Pai B is a Front-End Developer from Mangalore, India. Adithya Pai is currenty pursuing his BE in Computer Science. Feel free to contact Adithya Pai B" /><meta name="Keywords" content="Adithya Pai B adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
-<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="25" class="giphy-embed"></iframe>
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Adithya Pai B
+
+Hey there I am Adithya Pai B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
+
+**Where can you connect with me ?**
 
 
 [![portfolio badge](https://img.shields.io/badge/Portfolio-adithyapai.com-b10840.svg)](https://adithyapai.com/)
