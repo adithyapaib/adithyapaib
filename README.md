@@ -46,7 +46,7 @@ const adithyaPai = {
  <br>
  <br>
  
- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyapaib&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyapaib&layout=compact)]
   
  <p align="center">
   <b>Visitors</b>
