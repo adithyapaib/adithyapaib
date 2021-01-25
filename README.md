@@ -3,7 +3,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <br>
 
 
-[![portfolio badge](https://img.shields.io/badge/Portfolio-adithyapai.com-green.svg)](https://adithyapai.com/)
+[![portfolio badge](https://img.shields.io/badge/Portfolio-adithyapai.com-1abc9c.svg)](https://adithyapai.com/)
 [![linkedin badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adithyapaib)
 [![twitter badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=twitter)](https://twitter.com/adithyapaib)
 [![telegram badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=telegram)](https://t.me/adithyapaib)
