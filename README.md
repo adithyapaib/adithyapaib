@@ -3,15 +3,8 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <br>
 
 [![linkedin badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adithyapaib)
-<a href="https://www.linkedin.com/in/adithyapaib/">
-  <img align="left" alt="Adithya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/adithyapaib">
-  <img align="left" alt="Adithya's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://facebook.com/adithyapaib26">
-  <img align="left" alt="Adithya's FB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+[![twitter badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=twitter)](https://twitter.com/adithyapaib)
+[![telegram badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=telegram)](https://t.me/adithyapaib)
 
 <br>
 <br>
