@@ -46,7 +46,7 @@ const adithyaPai = {
  <br>
  <br>
  
- [![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=adithyapaib&theme=blue-green)](https://github.com/adithyapaib/github-readme-stats)
+ ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=adithyapaib&theme=blue-green)
   
  <p align="center">
   <b>Visitors</b>
