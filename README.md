@@ -1,11 +1,12 @@
 <meta property="og:description" content="Adithya Pai B is a Front-End Developer from Mangalore, India. Adithya Pai is currenty pursuing his BE in Computer Science. Feel free to contact Adithya Pai B" /><meta name="Keywords" content="Adithya Pai B adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Adithya Pai B
 <br>
-[![portfolio badge](https://img.shields.io/badge/Portfolio-adithyapai.com-<COLOR>.svg)](https://adithyapai.com/)
+
+
+[![portfolio badge](https://img.shields.io/badge/Portfolio-adithyapai.com-green.svg)](https://adithyapai.com/)
 [![linkedin badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adithyapaib)
 [![twitter badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=twitter)](https://twitter.com/adithyapaib)
 [![telegram badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=telegram)](https://t.me/adithyapaib)
-[![telegram badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat)](https://adithyapai.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://adithyapai.cf/)
 
 <br>
