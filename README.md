@@ -2,7 +2,7 @@
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Adithya Pai B
 <br>
 
-[![linkedin badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/adithyapaib)
+[![linkedin badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=linkedin?logoColor=violet)](https://www.linkedin.com/in/adithyapaib)
 [![twitter badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=twitter)](https://twitter.com/adithyapaib)
 [![telegram badge](https://img.shields.io/badge/adithyapaib-30302f?style=flat&logo=telegram)](https://t.me/adithyapaib)
 
