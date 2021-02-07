@@ -12,10 +12,11 @@ Hey there I am Adithya Pai B <img src="https://media.giphy.com/media/hvRJCLFzcas
 [![telegram badge](https://img.shields.io/badge/@adithyapaib-30302f?style=flat&logo=telegram)](https://t.me/adithyapaib)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://adithyapai.cf/)
 
+
 <br>
 <br>
 <br>
-Hi, I'm [!Adithya Pai B](https://adithyapai.com), a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
+Hi, I'm [Adithya Pai B](https://adithyapai.com) , a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
 <br>
 <br>
  <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
