@@ -21,7 +21,7 @@ Hi, I'm [!Adithya Pai B](https://adithyapai.com), a Front-End Developer, UI/UX d
  <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
  <br>
  <br>
- <p align="center">
+ <p align="left">
   <a href="https://github.com/adithyapaib">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
