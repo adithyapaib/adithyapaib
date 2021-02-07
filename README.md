@@ -1,14 +1,5 @@
 <meta property="og:description" content="Adithya Pai B is a Front-End Developer from Mangalore, India. Adithya Pai is currenty pursuing his BE in Computer Science. Feel free to contact Adithya Pai B" /><meta name="Keywords" content="Adithya Pai B adithya pai b adithyapai adithya pai Adithya AdithyaPai ADITHYAPAI ADITHYA adithyapaib paiadithya adithyapai.com www.adithyapai.com"/>
 
-
- █████╗ ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗ █████╗     ██████╗  █████╗ ██╗
-██╔══██╗██╔══██╗██║╚══██╔══╝██║  ██║╚██╗ ██╔╝██╔══██╗    ██╔══██╗██╔══██╗██║
-███████║██║  ██║██║   ██║   ███████║ ╚████╔╝ ███████║    ██████╔╝███████║██║
-██╔══██║██║  ██║██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║    ██╔═══╝ ██╔══██║██║
-██║  ██║██████╔╝██║   ██║   ██║  ██║   ██║   ██║  ██║    ██║     ██║  ██║██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝
-
-
 Hey there I am Adithya Pai B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
@@ -35,13 +26,6 @@ Hi, I'm [!Adithya Pai B](https://adithyapai.com), a Front-End Developer, UI/UX d
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
   <br/>
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Click Here ](https://telegram.me/adithyapai);
-- 📝[My Portfollio ](https://adithyapai.com)
-
 ```javascript
 const adithyaPai = {
     pronouns: "He" | "Him",
