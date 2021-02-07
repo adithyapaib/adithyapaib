@@ -26,6 +26,7 @@ Hi, I'm [!Adithya Pai B](https://adithyapai.com), a Front-End Developer, UI/UX d
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
   <br/>
+ 
 ```javascript
 const adithyaPai = {
     pronouns: "He" | "Him",
