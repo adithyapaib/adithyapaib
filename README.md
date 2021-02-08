@@ -15,7 +15,7 @@ I am Adithya Pai B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gi
 <br>
 <br>
 <br>
-Hi, I'm Adithya Pai B a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
+I'm Adithya Pai B a Front-End Developer, UI/UX desginer 🚀 from India, currently, I'm pursuing my BE in Computer Science 🙍🏽‍♂️ .  Beside's programming, I love Photography, Writing, and Travelling.
 <br>
 <br>
  <img alt="GIF" src="https://github.com/adithyapaib/adithyapaib/blob/master/code.gif?raw=true" width="400" height="256" />
