@@ -28,7 +28,7 @@ I'm Adithya Pai B a Front-End Developer, UI/UX desginer 🚀 from India, current
   <br/>
  
 ```javascript
-const adithyaPai = {
+const adithyaPaiB = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C", "C++"],
     askMeAbout: ["Web Develeopment", "tech", "photography"],
