@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://resume.adithyapai.com/](https://resume.adithyapai.com/)
 
-- ⚡ Fun fact **Im tall af**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
