@@ -1,11 +1,3 @@
-### 🔺Skills
-
-![](https://img.shields.io/badge/C-0786AB?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++?style=for-the-badge&logo=c%2B%2B)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ## 📈 Stats
