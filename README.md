@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=adithyapaib.adithyapaib" alt="visitors">
 </div>
 
