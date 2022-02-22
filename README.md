@@ -1,6 +1,7 @@
 
 
 ## 📈 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib)](https://git.io/streak-stats)
 
 <div align="center">
   
@@ -18,7 +19,7 @@
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.adithyapai.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adithyapaib)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/adithyapaib)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib)](https://git.io/streak-stats)
+
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/adithyapaib/adithyapaib/master/download.svg)
