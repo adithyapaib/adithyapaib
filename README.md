@@ -3,6 +3,7 @@
 ## 📈 Stats
 
 <div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=adithyapaib&show_icons=true&hide_border=false" alt="Adithya Pai's GitHub Stats">
 </div>
 
