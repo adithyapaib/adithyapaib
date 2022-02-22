@@ -21,7 +21,7 @@
 
 ## Streaks  🔥
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apunady)](https://git.io/streak-stats)
 
 
 
