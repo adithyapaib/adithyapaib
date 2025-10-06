@@ -5,7 +5,7 @@
 # 👋 Hi, I’m Adithya Pai B
 **MTS Software Engineer 2 @ NetApp • DevOps / Backend Engineer • Open Source & Automation enthusiast**
 
-- 🔭 I’m currently building GenAI & automation workflows and developer tooling to boost engineering productivity at NetApp (n8n, ServiceNow, Jira, Confluence). :contentReference[oaicite:0]{index=0}  
+- 🔭 I’m currently building GenAI & automation workflows and developer tooling to boost engineering productivity at NetApp (n8n, ServiceNow, Jira, Confluence).  
 - 🌱 I’m learning more about scalable microservices, infra automation and production-grade GenAI integrations.  
 - 💬 Ask me about: APIs, automation with n8n, backend systems, cloud fundamentals.  
 - 📫 Reach me: [adithyapaib@gmail.com](mailto:adithyapaib@gmail.com) 
@@ -36,7 +36,7 @@
 ---
 
 ## 🧭 About / Summary
-MTS Software Engineer 2 at **NetApp** — I work on engineering tools, GenAI integrations and automation workflows that reduce manual effort and improve developer productivity (n8n, ServiceNow, Jira, Confluence). Prior roles & projects span backend services, serverless functions and developer tooling. :contentReference[oaicite:1]{index=1}
+MTS Software Engineer 2 at **NetApp** — I work on engineering tools, GenAI integrations and automation workflows that reduce manual effort and improve developer productivity (n8n, ServiceNow, Jira, Confluence). Prior roles & projects span backend services, serverless functions and developer tooling.
 
 ---
 
@@ -44,11 +44,11 @@ MTS Software Engineer 2 at **NetApp** — I work on engineering tools, GenAI int
 > Short descriptions + links — click to explore
 
 - **lenk.cf** — A lightweight URL shortener (Node.js + MongoDB + Vercel serverless). Serverless API for static websites.  
-  Repo: https://github.com/adithyapaib/lenk.cf :contentReference[oaicite:2]{index=2}
+  Repo: https://github.com/adithyapaib/lenk.cf
 
-- **AI-Powered Resume Reviewer (ResuMeme)** — Parses & scores resumes for ATS compatibility, grammar, strengths/weaknesses, and can add a humorous summary option. :contentReference[oaicite:3]{index=3}
+- **AI-Powered Resume Reviewer (ResuMeme)** — Parses & scores resumes for ATS compatibility, grammar, strengths/weaknesses, and can add a humorous summary option.
 
-- **UPI → Google Sheets (n8n)** — *Work in progress*: an n8n workflow that automatically saves UPI transaction details to Google Sheets for simple bookkeeping and audit. Currently under active development (demo & workflow details will be added to the repo/portfolio). :contentReference[oaicite:4]{index=4}
+- **UPI → Google Sheets (n8n)** — *Work in progress*: an n8n workflow that automatically saves UPI transaction details to Google Sheets for simple bookkeeping and audit. Currently under active development (demo & workflow details will be added to the repo/portfolio).
 
 *(Tip: pin these repos to your GitHub profile and add a short screenshot or GIF to each README to increase engagement.)*
 
@@ -59,12 +59,12 @@ MTS Software Engineer 2 at **NetApp** — I work on engineering tools, GenAI int
 **Backend / APIs:** Node.js • Express • TypeScript • Django • PHP • MongoDB • Redis.  
 **DevOps / Infra:** Docker • AWS • GCP • Azure • CI/CD • Linux • n8n • GitHub Actions.  
 **Frontend / UI:** Next.js • React • Tailwind • Bootstrap • Figma.  
-**Tools:** Git • Postman • Selenium • Vercel • Copilot. :contentReference[oaicite:5]{index=5}
+**Tools:** Git • Postman • Selenium • Vercel • Copilot.
 
 ---
 
 ## 🔭 What I’m working on
-- Production-grade GenAI automations for developer workflows (n8n + ServiceNow). :contentReference[oaicite:6]{index=6}  
+- Production-grade GenAI automations for developer workflows (n8n + ServiceNow).  
 - Polishing the resume-analysis tool (ResuMeme) and shipping the **UPI → Google Sheets (n8n)** workflow demo.
 
 ---
