@@ -8,7 +8,7 @@
 - 🔭 I’m currently building GenAI & automation workflows and developer tooling to boost engineering productivity at NetApp (n8n, ServiceNow, Jira, Confluence). :contentReference[oaicite:0]{index=0}  
 - 🌱 I’m learning more about scalable microservices, infra automation and production-grade GenAI integrations.  
 - 💬 Ask me about: APIs, automation with n8n, backend systems, cloud fundamentals.  
-- 📫 Reach me: [adithyapaib@gmail.com](mailto:adithyapaib@gmail.com) • [+91 91088 46924](tel:+919108846924)  
+- 📫 Reach me: [adithyapaib@gmail.com](mailto:adithyapaib@gmail.com) 
 - 🔗 Portfolio: https://adithyapaib.com • LinkedIn: https://www.linkedin.com/in/adithyapaib/ • GitHub: https://github.com/adithyapaib
 
 ---
