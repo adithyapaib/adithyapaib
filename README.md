@@ -1,79 +1,81 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="greeting" style="width:100%"/>
-</div>
-
-# 👋 Hi, I’m Adithya Pai B
-**MTS Software Engineer 2 @ NetApp • DevOps / Backend Engineer • Open Source & Automation enthusiast**
-
-- 🔭 I’m currently building GenAI & automation workflows and developer tooling to boost engineering productivity at NetApp (n8n, ServiceNow, Jira, Confluence).  
-- 🌱 I’m learning more about scalable microservices, infra automation and production-grade GenAI integrations.  
-- 💬 Ask me about: APIs, automation with n8n, backend systems, cloud fundamentals.  
-- 📫 Reach me: [adithyapaib@gmail.com](mailto:adithyapaib@gmail.com) 
-- 🔗 Portfolio: https://adithyapaib.com • LinkedIn: https://www.linkedin.com/in/adithyapaib/ • GitHub: https://github.com/adithyapaib
-
----
-
-## 🔗 Quick Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://adithyapaib.com/) 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.adithyapaib.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adithyapaib) 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithyapaib)
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyapaib&show_icons=true&hide_border=false" alt="Adithya Pai's GitHub Stats" />
-</div>
-
-<div align="center">
+  <h1 align="center">Hi there, I'm <a href="https://adithyapaib.com" target="_blank">Adithya Pai B</a>! 👋</h1>
+  <h3 align="center">MTS Software Engineer 2 at NetApp | DevOps & Backend Engineer | GenAI Automation</h3>
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adithyapaib.adithyapaib" alt="visitors" />
-  <br/>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithyapaib)](https://git.io/streak-stats)
+  
+  <p align="center">
+    <a href="https://adithyapaib.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-adithyapaib.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/adithyapaib/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/adithyapaib" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:adithyapaib@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🧭 About / Summary
-MTS Software Engineer 2 at **NetApp** — I work on engineering tools, GenAI integrations and automation workflows that reduce manual effort and improve developer productivity (n8n, ServiceNow, Jira, Confluence). Prior roles & projects span backend services, serverless functions and developer tooling.
+### 👨‍💻 About Me
+
+I'm a **Software Engineer** passionate about building scalable engineering tools, internal automations, and developer workflows. My current focus is on **GenAI-based automation** (using tools like n8n) and connecting APIs with LLMs to solve complex problems.
+
+- 🔭 I’m currently working at **NetApp** as an **MTS Software Engineer 2**.
+- 🌱 I’m deeply interested in **Ethical Reverse Engineering**, **Microservices**, and **Infrastructure Automation**.
+- � I love exploring **LLM Orchestration** and building efficient backend systems.
+- 🚀 Always striving to write clean code and ship fast.
 
 ---
 
-## 🚀 Featured Projects
-> Short descriptions + links — click to explore
+### 🛠️ Tech Stack
 
-- **lenk.cf** — A lightweight URL shortener (Node.js + MongoDB + Vercel serverless). Serverless API for static websites.  
-  Repo: https://github.com/adithyapaib/lenk.cf
-
-- **AI-Powered Resume Reviewer (ResuMeme)** — Parses & scores resumes for ATS compatibility, grammar, strengths/weaknesses, and can add a humorous summary option.
-
-- **UPI → Google Sheets (n8n)** — *Work in progress*: an n8n workflow that automatically saves UPI transaction details to Google Sheets for simple bookkeeping and audit. Currently under active development (demo & workflow details will be added to the repo/portfolio).
-
-*(Tip: pin these repos to your GitHub profile and add a short screenshot or GIF to each README to increase engagement.)*
-
----
-
-## 🛠️ Skills & Tech Stack
-**Languages:** Python • JavaScript • Golang • C • SQL  
-**Backend / APIs:** Node.js • Express • TypeScript • Django • PHP • MongoDB • Redis.  
-**DevOps / Infra:** Docker • AWS • GCP • Azure • CI/CD • Linux • n8n • GitHub Actions.  
-**Frontend / UI:** Next.js • React • Tailwind • Bootstrap • Figma.  
-**Tools:** Git • Postman • Selenium • Vercel • Copilot.
-
----
-
-## 🔭 What I’m working on
-- Production-grade GenAI automations for developer workflows (n8n + ServiceNow).  
-- Polishing the resume-analysis tool (ResuMeme) and shipping the **UPI → Google Sheets (n8n)** workflow demo.
+<div align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <!-- Tools & Cloud -->
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</div>
 
 ---
 
-## 📫 Contact
-- Email: [adithyapaib@gmail.com](mailto:adithyapaib@gmail.com)  
-- Portfolio: https://adithyapaib.com/  
-- LinkedIn: https://www.linkedin.com/in/adithyapaib/  
-- Resume: https://resume.adithyapaib.com
+### 🚀 Featured Projects
 
-<!-- contribution grid snake -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/adithyapaib/adithyapaib/master/download.svg)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **UPI Automation Workflow** | Automated UPI transaction processing workflow using n8n. | `n8n` `Node.js` `PostgreSQL` |
+| **lenk.cf** | A serverless URL shortener with analytics. | `Node.js` `TypeScript` `MongoDB` |
+| **CodeSH** | API-based code-sharing platform for developers. | `Express` `TypeScript` `MongoDB` |
+| **BigOlogy** | Interactive visualization tool for understanding time & space complexity. | `JavaScript` `Web` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyapaib&show_icons=true&theme=radical&count_private=true" alt="Adithya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyapaib&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<p align="center">
+  <a href="https://adithyapaib.com"><b>Check out my Portfolio Website ➜</b></a>
+</p>
