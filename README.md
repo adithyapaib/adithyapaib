@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm <a href="https://adithyapaib.com" target="_blank">Adithya Pai B</a>! 👋</h1>
-  <h3 align="center">MTS Software Engineer 2 at NetApp | DevOps & Backend Engineer | GenAI Automation</h3>
+  <h3 align="center">MTS Software Engineer 2 at NetApp | Full Stack Engineer | GenAI Automation</h3>
   <br/>
   
   <p align="center">
